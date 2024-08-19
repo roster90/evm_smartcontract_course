@@ -64,3 +64,8 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+<!-- Install contract  -->
+forge install foundry-rs/forge-std --no-commit
+forge install OpenZeppelin/openzeppelin-contracts --no-commit
+forge install OpenZeppelin/openzeppelin-foundry-upgrades --no-commit
